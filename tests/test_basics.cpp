@@ -4,7 +4,6 @@
 #include <vector>
 #include "../my_code/basics.h"
 //Hi...
-//Hi...
 using namespace std;
 
 int main() {
