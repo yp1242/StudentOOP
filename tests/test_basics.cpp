@@ -3,7 +3,7 @@
 #include <string>
 #include <vector>
 #include "../my_code/basics.h"
-//Hi...
+
 using namespace std;
 
 int main() {
