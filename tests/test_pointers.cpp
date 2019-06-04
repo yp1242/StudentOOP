@@ -1,7 +1,7 @@
 #include <cassert>
 #include <iostream>
 #include "../my_code/pointers.h"
-
+//Hi...
 using namespace std;
 
 const int NUM_THINGS = 40;
