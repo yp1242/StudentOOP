@@ -3,6 +3,7 @@
 #include <vector>
 
 //Hi...
+//Hi...
 struct coord {
 	int x = 0;
 	int y = 0;
