@@ -7,6 +7,7 @@ using namespace std;
 
 const int NUM_THINGS = 40;
 
+//Hi...
 
 int main() {
 	// first we test the various methods of passing args:
