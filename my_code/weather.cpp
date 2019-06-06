@@ -7,6 +7,7 @@ using namespace std;
 /*
  * A constructor for weather class.
  * */
+//Hi...
 Weather::Weather(std::string nm, GPS loc) :
 	station_nm(nm), my_loc(loc) {
 }
