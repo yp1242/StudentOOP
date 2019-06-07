@@ -7,7 +7,7 @@ using namespace std;
 /*
  * A constructor for weather class.
  * */
-
+//Hi...
 Date::Date(int d, int m, int y) :day(d), month(m), year(y) {}
 
 ostream& operator<<(ostream& os, const Date& date){
