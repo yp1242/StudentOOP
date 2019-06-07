@@ -25,8 +25,13 @@ void Weather::set_rating(int new_rating) {
 	rating = new_rating;
 }
 
+ostream& operator<<(ostream& os, const GPS& gps) {
+	os << gps.latitude << gps.longitude;
+	return os;
+}
 ostream& operator<<(ostream& os, const Weather& w) {
 	int r = w.get_rating();
 	os << w.station_nm << " : rating" << r;
+	os << " My location is" << w.my_loc;
 	return os;
 }
