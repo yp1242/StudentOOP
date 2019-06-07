@@ -3,7 +3,6 @@
 #include <fstream>
 #include "../my_code/weather.h"
 
-//Hi...
 using namespace std;
 
 string get_input_file() {
