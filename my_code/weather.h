@@ -3,8 +3,6 @@
 
 #include <string>
 
-//Hi...
-
 struct GPS {
 	double latitude;
 	double longitude;
