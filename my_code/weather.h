@@ -3,7 +3,7 @@
 
 #include <string>
 #include <vector>
-//Hi...
+
 struct GPS {
 	double latitude;
 	double longitude;
