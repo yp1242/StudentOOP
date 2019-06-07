@@ -2,7 +2,7 @@
 #define WEATHER_H
 
 #include <string>
-
+//Hi...
 struct GPS {
 	double latitude;
 	double longitude;
