@@ -1,7 +1,7 @@
 #ifndef COMPLEX_H
 #define COMPLEX_H
 
-
+//Hi...
 class Complex {
 	friend std::ostream& operator<< (std::ostream& os, const Complex& c);
 	friend std::istream& operator>> (std::istream& is, Complex& c);
