@@ -30,7 +30,7 @@ $(TEST_DIR)/test_vector: $(STUDENT_DIR)/vector.cpp $(TEST_DIR)/test_vector.cpp
 
 test_list: $(TEST_DIR)/test_list
 
-$(TEST_DIR)/test_list: $(STUDENT_DIR)/llist.cpp $(TEST_DIR)/test_list.cpp
+$(TEST_DIR)/test_list: $(STUDENT_DIR)/list.cpp $(TEST_DIR)/test_list.cpp
 
 
 tests: test_hello test_basics test_pointers test_complex test_vector test_list
